@@ -54,6 +54,7 @@ Pliki w kolejności wymaganej do uzyskania gotowego projektu:
 1. **tworzenie_tabel.sql**
 2. **wypelnianie_bazy.py**
 3. **raport.py**
+
 Po tych krokach dostępny będzie plik raport.pdf z wykresami i tabelami pozwalającymi na analizę działania firmy.
 
 ## Motywacje autora
