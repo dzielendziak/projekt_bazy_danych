@@ -5,9 +5,9 @@
 Najważniejsze założenia działania firmy smaczne.pl:
 - Firma obsługuje 30 restauracji na terenie Wrocławia i okolicznych wiosek. Działa od 12 miesięcy.
 - Zatrudnia obecnie 50 dostawców.
-- Dostawy to osobny dział firmy, dlatego pracownicy marketingu czy innych działów nie są uwzględnieni w bazie danych.
+- Dostawy to osobny dział firmy, dlatego pracownicy marketingu lub innych działów nie są uwzględnieni w bazie danych.
 - Flota pojazdów obejmuje w sumie 50 rowerów, skuterów i samochodów. Pracownicy dowożą tylko na służbowych pojazdach.
-- Smaczne.pl dzieli się zyskami z każdego zamówienia z restauracją i dostawcą po określonej stawce procentowej. Jest to jedyny sposób na zarobek dla dostawców, nie ma stawki kilometrowej lub stałej stawki godzinowej. Zarabki kurierów różnią się w zależności od godzin (stawka nocna) lub aktywności.
+- Smaczne.pl dzieli się zyskami z każdego zamówienia z restauracją i dostawcą po określonej stawce procentowej. Jest to jedyny sposób na zarobek dla dostawców, nie ma stawki kilometrowej lub stałej stawki godzinowej. Zarobki kurierów różnią się w zależności od godzin (stawka nocna) lub aktywności.
 - Koszty serwisu również podjegają działowi dostaw.
 - Każdy klient po otrzymaniu zamówienia może wystawić ocene restauracji i ocene dostawcy (w skali 1-5).
 - Pojazd nie jest przypisany do dostawcy, każdy z nich ma prawo jazdy i pracuje na pojeździe, który akurat dostępny jest w magazynie.
